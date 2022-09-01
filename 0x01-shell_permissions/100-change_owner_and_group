@@ -1,2 +1,2 @@
 #!/bin/bash
-[vincent][:[staff]] ls -l
+chown vincent:staff *
