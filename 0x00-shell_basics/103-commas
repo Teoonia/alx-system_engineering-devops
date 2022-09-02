@@ -1,2 +1,2 @@
 #!/bin/bash
-ls */,-a/*,{{:alpha:}} , ..*,{{:alpha:}} {{:digit:}}*
+ls -pamv
