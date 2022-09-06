@@ -1,0 +1,2 @@
+#!/bin/bash
+find  . -tups d ! -print | wc -1
